@@ -25,3 +25,13 @@
 #Raspberry PI 3, 2 x NoName 6V Dc-Motors (China), L298N H-bridge motor driver for wheels, SG90 Micro servo Motor for eyes, 
 #4 x AA Batteries to power the motor driver, 10000mAh power bank to power Raspberry PI, Umox Camera
 #*******************************************************************************************************************************************
+
+Demonstration video:
+
+https://youtu.be/9njUdVDlwN4
+
+https://youtu.be/9MIgMDpZxdw
+
+https://youtu.be/KkVSJUBkuxY
+
+https://youtu.be/5TTddz3KNTQ
