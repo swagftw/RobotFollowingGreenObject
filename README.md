@@ -2,7 +2,7 @@
 
 
 #*******************************************************************************************************************************************
-#Author:			Anel Music - ga63hig - anel.music@tum.de
+#Author:			Anel Music - anel.music@tum.de
 #This code tracks a green ball and makes a Rapberry PI based, car like robot following 
 #
 #Part 1:
